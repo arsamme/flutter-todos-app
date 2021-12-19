@@ -1,0 +1,32 @@
+{
+  "date": {
+    "year": "2021",
+    "month": "Feb",
+    "day": "3",
+    "week_day": "sunday"
+  },
+  "todos": [{
+    "time": "09:00 AM",
+    "title": "Design team meeting",
+    "color": "0xFFEF5350",
+    "done": true
+  },
+    {
+      "time": "11:00 AM",
+      "title": "Making wireframes",
+      "color": "0xFFD500F9",
+      "done": false
+    }, {
+      "time": "01:00 PM",
+      "title": "Check emails",
+      "color": "0xFF1976D2",
+      "done": false
+    },
+    {
+      "time": "01:30 AM",
+      "title": "meeting with Muman khvadadze",
+      "color": "0xFFF57F17",
+      "done": false
+    }
+  ]
+}
